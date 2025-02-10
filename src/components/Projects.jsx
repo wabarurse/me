@@ -66,7 +66,7 @@ const ProjectCard = ({ logo, name, description, link }) => (
   <div className="scroll-fade hover-zoom">
     <div className="project-card">
       <div class="absolute top-4 left-4 w-8 h-8">
-        <img src={logo} alt="logo" />
+        <img src={process.env.PUBLIC_URL + logo} alt="logo" />
       </div>
       <div className="absolute flex top-4 left-16 h-8 w-auto items-center">
         <h1 className="font-nunito text-color-1 text-2xl font-bold">{name}</h1>

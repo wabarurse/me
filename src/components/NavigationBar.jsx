@@ -53,7 +53,7 @@ const NavigationBar = () => {
       <div className="bg-color fixed top-0 h-20 w-screen m-0 shadow-lg flex justify-center items-center gap-x-4 z-10">
         <a href="/about">
           <img 
-            src="/images/logo.png" 
+            src={process.env.PUBLIC_URL + "/images/logo.png"}
             alt="Logo" 
             className="hover-zoom-large absolute left-4 top-1/2 -translate-y-1/2 h-12 w-auto" 
           />
