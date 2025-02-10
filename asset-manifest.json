@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/me/static/css/main.01b763e0.css",
-    "main.js": "/me/static/js/main.54c3ad02.js",
+    "main.css": "/me/static/css/main.a21f197b.css",
+    "main.js": "/me/static/js/main.5185efcf.js",
     "static/media/Nunito-VariableFont_wght.ttf": "/me/static/media/Nunito-VariableFont_wght.c0f0807a40aebdc41b40.ttf",
     "static/media/Holysweet-rgn4K.otf": "/me/static/media/Holysweet-rgn4K.5aaaec86dd98b31a78ed.otf",
     "index.html": "/me/index.html",
-    "main.01b763e0.css.map": "/me/static/css/main.01b763e0.css.map",
-    "main.54c3ad02.js.map": "/me/static/js/main.54c3ad02.js.map"
+    "main.a21f197b.css.map": "/me/static/css/main.a21f197b.css.map",
+    "main.5185efcf.js.map": "/me/static/js/main.5185efcf.js.map"
   },
   "entrypoints": [
-    "static/css/main.01b763e0.css",
-    "static/js/main.54c3ad02.js"
+    "static/css/main.a21f197b.css",
+    "static/js/main.5185efcf.js"
   ]
 }
